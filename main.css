@@ -16,3 +16,13 @@
 	padding: 50px 100px;
 
 }
+
+
+.footer{
+	background:peru;
+	padding: 50px 100px ;
+	text-align: center;
+	font-size: 32px;
+	font-family: serif;
+	color: rgb(255, 255, 255);
+}
